@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: cluster-plot
+Version: 0.1
+Summary: Implementation of ClusterPlot paper
+Home-page: https://github.com/ormalkai/ClusterPlot
+Download-URL: https://github.com/user/reponame/archive/v_01.tar.gz
+Author: Or Malkai
+Author-email: ormalkai@gmail.com
+License: MIT
+Keywords: ClusterPlot,ClusterPlots,cluster,plot,ClustersPlot
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Data Scientists, Researches, Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+License-File: LICENSE
+
+UNKNOWN
+

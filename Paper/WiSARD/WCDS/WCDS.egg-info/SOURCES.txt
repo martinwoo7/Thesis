@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+WCDS/WCDS.egg-info/PKG-INFO
+WCDS/WCDS.egg-info/SOURCES.txt
+WCDS/WCDS.egg-info/dependency_links.txt
+WCDS/WCDS.egg-info/top_level.txt

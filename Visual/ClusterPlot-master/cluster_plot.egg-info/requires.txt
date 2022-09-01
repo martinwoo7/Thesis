@@ -1,0 +1,11 @@
+numpy
+pandas
+umap-learn
+alphashape
+shapely
+seaborn
+imageio
+matplotlib
+sklearn
+scipy
+shapely
